@@ -91,7 +91,7 @@ void UART2_Init(void)
 
 int main(void)
 {
-	uint8_t cnt;
+	uint8_t cnt=0;
 	Btn_Ctrl = RESET;
 	RxCmlt = RESET;
 	//Peripheral Initiation
