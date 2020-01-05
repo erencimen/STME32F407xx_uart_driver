@@ -1,0 +1,14 @@
+stm32f407xx_uart_driver.c:29:6:UART_PCLK_Control	16	static
+stm32f407xx_uart_driver.c:104:6:UART_Init	24	static
+stm32f407xx_uart_driver.c:195:6:UART_DeInit	16	static
+stm32f407xx_uart_driver.c:241:6:USART_SendData	32	static
+stm32f407xx_uart_driver.c:292:9:USART_SendDataIT	32	static
+stm32f407xx_uart_driver.c:326:7:USART_ReceiveData	32	static
+stm32f407xx_uart_driver.c:385:9:USART_ReceiveDataIT	32	static
+stm32f407xx_uart_driver.c:419:6:UART_IRQITConfig	16	static
+stm32f407xx_uart_driver.c:466:6:UART_IRQPriorityConfig	24	static
+stm32f407xx_uart_driver.c:489:6:UART_IRQ_Handling	32	static
+stm32f407xx_uart_driver.c:765:6:UART_PeripheralControl	16	static
+stm32f407xx_uart_driver.c:791:9:UART_GetFlagStatus	16	static
+stm32f407xx_uart_driver.c:813:6:UART_ClearFlag	16	static
+stm32f407xx_uart_driver.c:819:6:USART_SetBaudRate	40	static
