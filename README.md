@@ -7,10 +7,10 @@ This drivers supports only asynchronous (UART) communication.
 
 For test the UART driver STM32F4DISCOVERY Board and ARDUNIO UNO R3 boards are used.
 
-#TEST SCENARIO
+# TEST SCENARIO
 When the user wake-up button on STM32F4DISCOVERY Board is pressed data will be sent to ARDUNIO UNO R3 Board and ARDUNIO Board changes the case of alphabets (lower case to upper case and vice versa) then sends data back to STM32F4DISCOVERY Board.
 
-#CONNECTIONS
+# CONNECTIONS
 
                                     STM32F4DISCOVERY                  ARDUNIO UNO
 
